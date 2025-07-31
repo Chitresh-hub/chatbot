@@ -24,5 +24,3 @@ This is a simple AI chatbot built with Python using **NLTK** for natural languag
 
 ---
 
-## 📁 Project Structure
-
